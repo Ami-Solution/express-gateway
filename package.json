@@ -2,7 +2,7 @@
   "name": "express-gateway",
   "version": "1.12.1",
   "description": "A microservices API gateway built on top of ExpressJS",
-  "homepage": "https://www.express-gateway.io",
+  "homepage": "http://learned-cone.glitch.me",
   "repository": "expressgateway/express-gateway",
   "keywords": [
     "microservices",
@@ -28,7 +28,7 @@
   "license": "Apache-2.0",
   "main": "lib/index.js",
   "engines": {
-    "node": ">= 8.0.0"
+    "node": "8.x"
   },
   "scripts": {
     "start": "node lib/index.js",
